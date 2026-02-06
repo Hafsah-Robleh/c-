@@ -1,2 +1,2 @@
-# c-
+# c++
 a repo for c++ projects 
