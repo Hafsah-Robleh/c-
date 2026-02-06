@@ -8,9 +8,6 @@ int popsicle_num;
 cout << "Enter the total number of popsicles: " << endl;
 cin >> popsicle_num;
 
-
-
-
 int boxes = popsicle_num / 15;
 cout << "Full boxes packed: ";
 cin >> boxes;
